@@ -1,0 +1,2 @@
+# Detikcom_FrontendDesignAssignment_FirmansyahSutanWahyuPrakosa
+Untuk Assigment Detik.com
